@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710025436 source:c:\users\adham\desktop\snake_infinite\main.cpp
+	<bits/stdc++.h>
+	<chrono>
+	<thread>
+	<conio.h>
+
